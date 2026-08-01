@@ -1,11 +1,15 @@
-# 👋 Hi, I'm Aman Kumar [![Email](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail)](mailto:aman.mail2212@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/aman-kumar-a724341b1/) 
-🚀 Backend Software Engineer | ☁️ Cloud-Native Developer | ⚙️ API Architect
+# 👋 Hi, I'm Aman Kumar     [![Email](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail)](mailto:aman.mail2212@gmail.com)    [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/aman-kumar-a724341b1/) 
+
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=3000&pause=1000&color=98E591&center=true&vCenter=true&width=700&lines=Backend+Software+Engineer;Node.js+%7C+NestJS+%7C+AWS;Cloud+Native+Developer;Building+Scalable+Applications&theme=tokyo-night)](https://git.io/typing-svg)
+
+# 🚀 Backend Software Engineer | ☁️ Cloud-Native Developer | ⚙️ API Architect
+
+# Bio
 
 I enjoy building scalable, secure, and high-performance backend systems that solve real-world problems. My work focuses on designing robust APIs, optimizing system performance, and developing cloud-native applications that are reliable and maintainable.
 
 With experience in backend development, cloud infrastructure, and DevOps, I enjoy turning complex business requirements into efficient software solutions. I'm passionate about clean architecture, distributed systems, and continuously improving application performance and scalability.
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=3000&pause=1000&color=98E591&center=true&vCenter=true&width=700&lines=Backend+Software+Engineer;Node.js+%7C+NestJS+%7C+AWS;Cloud+Native+Developer;Building+Scalable+Applications&theme=tokyo-night)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/aman-kumar-a724341b1/)
 
