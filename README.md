@@ -2,6 +2,10 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Backend+Software+Engineer;Node.js+%7C+NestJS+%7C+AWS;Cloud+Native+Developer;Building+Scalable+Applications)](https://git.io/typing-svg)
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/aman-kumar-a724341b1/)
+
+[![Email](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail)](mailto:aman.mail2212@gmail.com)
+
 ## 👨‍💻 About Me
 
 🚀 Backend Software Engineer
@@ -15,6 +19,7 @@
 🔥 Passionate about System Design
 
 📈 Performance Optimization
+
 [![My Skills](https://skillicons.dev/icons?i=nodejs,nestjs,ts,js,aws,docker,kubernetes,postgres,mysql,redis,git,github,linux)](https://skillicons.dev)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=amankumar2212&show_icons=true&theme=tokyonight)
@@ -27,9 +32,6 @@
 
 ![](https://komarev.com/ghpvc/?username=amankumar2212&color=blue)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/aman-kumar-a724341b1/)
-
-[![Email](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail)](mailto:aman.mail2212@gmail.com)
 
 ## 🚀 Featured Projects
 
