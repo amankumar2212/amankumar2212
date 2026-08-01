@@ -26,3 +26,23 @@
 ![Graph](https://github-readme-activity-graph.vercel.app/graph?username=amankumar2212&theme=tokyo-night)
 
 ![](https://komarev.com/ghpvc/?username=amankumar2212&color=blue)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/aman-kumar-a724341b1/)
+
+[![Email](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail)](mailto:aman.mail2212@gmail.com)
+
+## 🚀 Featured Projects
+
+⭐ Logistics Platform
+
+⭐ Payment Gateway
+
+⭐ NestJS Authentication
+
+⭐ Kubernetes Deployment
+
+⭐ Shopify Integration
+
+⭐ REST APIs
+
+> "Code with purpose. Build with scale. Deliver with impact."
