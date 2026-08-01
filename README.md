@@ -31,7 +31,7 @@ With experience in backend development, cloud infrastructure, and DevOps, I enjo
 
 # My Skills
 
-[!(https://skillicons.dev/icons?i=nodejs,nestjs,ts,js,aws,docker,kubernetes,postgres,mysql,redis,git,github,linux)]
+![My Skills](https://skillicons.dev/icons?i=nodejs, nestjs, ts, js, aws, docker, kubernetes, postgres, mysql, redis, git, github, linux)
 
 <!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=amankumar2212&show_icons=true&theme=tokyonight) -->
 
