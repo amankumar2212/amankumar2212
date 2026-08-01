@@ -31,11 +31,11 @@ With experience in backend development, cloud infrastructure, and DevOps, I enjo
 
 [![My Skills](https://skillicons.dev/icons?i=nodejs,nestjs,ts,js,aws,docker,kubernetes,postgres,mysql,redis,git,github,linux)]
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=amankumar2212&show_icons=true&theme=tokyonight)
+<!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=amankumar2212&show_icons=true&theme=tokyonight) -->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amankumar2212&layout=compact&theme=tokyonight)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amankumar2212&layout=compact&theme=tokyonight) -->
 
-![Trophy](https://github-profile-trophy.vercel.app/?username=amankumar2212&theme=algolia)
+<!-- ![Trophy](https://github-profile-trophy.vercel.app/?username=amankumar2212&theme=algolia) -->
 
 ![Graph](https://github-readme-activity-graph.vercel.app/graph?username=amankumar2212&theme=tokyo-night)
 
@@ -57,3 +57,5 @@ With experience in backend development, cloud infrastructure, and DevOps, I enjo
 ⭐ REST APIs
 
 > "Code with purpose. Build with scale. Deliver with impact."
+
+![Backend](https://img.shields.io/badge/Backend-Node.js-339933?style=for-the-badge&logo=node.js)
