@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Aman Kumar
+# 👋 Hi, I'm Aman Kumar [![Email](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail)](mailto:aman.mail2212@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/aman-kumar-a724341b1/) 
 🚀 Backend Software Engineer | ☁️ Cloud-Native Developer | ⚙️ API Architect
 
 I enjoy building scalable, secure, and high-performance backend systems that solve real-world problems. My work focuses on designing robust APIs, optimizing system performance, and developing cloud-native applications that are reliable and maintainable.
