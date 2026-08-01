@@ -1,7 +1,10 @@
-# 👋 Hi, I'm Aman Kumar
+# 👋 Hi, I'm Aman Kumar 
 ## 🚀 Backend Software Engineer | ☁️ Cloud-Native Developer | ⚙️ API Architect
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=3000&pause=1000&color=98E591&left=true&vCenter=true&width=500&lines=Code+with+purpose...;Build+with+scale...;Deliver+with+impact)
+<div align="right">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3RlZmJjc2Y4OWV6Z2Q4aXRmNXBvM3Zrb3d1aXExYWFzb2l4cDdtZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/13HgwGsXF0aiGY/giphy.gif" width="300" alt="Coding Cat">
+</div>
 
 # Bio
 
