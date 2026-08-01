@@ -2,7 +2,7 @@
 ## 🚀 Backend Software Engineer | ☁️ Cloud-Native Developer | ⚙️ API Architect
 
 <div align="center">
-  <img src="https://your-url/coding-cat.gif" width="500"/>
+  <img src="./assets/cat-coding.gif" width="500"/>
 </div>
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=2000&pause=1000&color=98E591&left=true&vCenter=true&width=500&lines=Code+with+purpose...;Build+with+scale...;Deliver+with+impact)
