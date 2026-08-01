@@ -28,35 +28,6 @@ With experience in backend development, cloud infrastructure, and DevOps, I enjo
 
 📈 Performance Optimization
 
-# My Skills
-
-![My Skills](https://skillicons.dev/icons?i=nodejs, nestjs, ts, js, aws, docker, kubernetes, postgres, mysql, redis, git, github, linux)
-
-<!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=amankumar2212&show_icons=true&theme=tokyonight) -->
-
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amankumar2212&layout=compact&theme=tokyonight) -->
-
-<!-- ![Trophy](https://github-profile-trophy.vercel.app/?username=amankumar2212&theme=algolia) -->
-
-![Graph](https://github-readme-activity-graph.vercel.app/graph?username=amankumar2212&theme=tokyo-night)
-
-![](https://komarev.com/ghpvc/?username=amankumar2212&color=blue)
-
-
-## 🚀 Featured Projects
-
-⭐ Logistics Platform
-
-⭐ Payment Gateway
-
-⭐ NestJS Authentication
-
-⭐ Kubernetes Deployment
-
-⭐ Shopify Integration
-
-⭐ REST APIs
-
 ## 💻 Tech Stack
 
 ![Backend](https://img.shields.io/badge/Backend-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
@@ -86,3 +57,29 @@ With experience in backend development, cloud infrastructure, and DevOps, I enjo
 
 ![IDE](https://img.shields.io/badge/IDE-VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![OS](https://img.shields.io/badge/OS-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+
+<!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=amankumar2212&show_icons=true&theme=tokyonight) -->
+
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amankumar2212&layout=compact&theme=tokyonight) -->
+
+<!-- ![Trophy](https://github-profile-trophy.vercel.app/?username=amankumar2212&theme=algolia) -->
+
+![Graph](https://github-readme-activity-graph.vercel.app/graph?username=amankumar2212&theme=tokyo-night)
+
+![](https://komarev.com/ghpvc/?username=amankumar2212&color=blue)
+
+
+## 🚀 Featured Projects
+
+⭐ Logistics Platform
+
+⭐ Payment Gateway
+
+⭐ NestJS Authentication
+
+⭐ Kubernetes Deployment
+
+⭐ Shopify Integration
+
+⭐ REST APIs
