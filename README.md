@@ -2,11 +2,7 @@
 ## 🚀 Backend Software Engineer | ☁️ Cloud-Native Developer | ⚙️ API Architect
 <!-- # [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=3000&pause=1000&color=98E591&left=true&vCenter=true&width=700&lines=Backend+Software+Engineer...;Node.js+%7C+NestJS+%7C+AWS...;Cloud+Native+Developer...;Building+Scalable+Applications&theme=tokyo-night)] -->
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=3000&pause=1000&color=98E591&center=true&vCenter=true&width=700&lines=Backend+Software+Engineer;Node.js+%7C+NestJS+%7C+AWS;Cloud+Native+Developer;Building+Scalable+Applications)](https://git.io/typing-svg)
-
-### ⚡ Building scalable backend systems with modern cloud technologies
-
-<br>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=3000&pause=1000&color=98E591&left=true&vCenter=true&width=700&lines=⚡+Building+scalable+backend+systems+with+modern+cloud+technologies....)]
 
 # Bio
 
