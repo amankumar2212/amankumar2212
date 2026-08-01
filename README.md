@@ -1,8 +1,7 @@
 # 👋 Hi, I'm Aman Kumar
 ## 🚀 Backend Software Engineer | ☁️ Cloud-Native Developer | ⚙️ API Architect
-<!-- # [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=3000&pause=1000&color=98E591&left=true&vCenter=true&width=700&lines=Backend+Software+Engineer...;Node.js+%7C+NestJS+%7C+AWS...;Cloud+Native+Developer...;Building+Scalable+Applications&theme=tokyo-night)] -->
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=3000&pause=1000&color=98E591&left=true&vCenter=true&width=500&lines=⚡+Building+scalable+backend+systems+with+modern+cloud+technologies+....)]
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=3000&pause=1000&color=98E591&left=true&vCenter=true&width=500&lines=Code+with+purpose...;Build+with+scale...;Deliver+with+impact)]
 
 # Bio
 
@@ -60,15 +59,18 @@ With experience in backend development, cloud infrastructure, and DevOps, I enjo
 
 > "Code with purpose. Build with scale. Deliver with impact."
 
-![Backend](https://img.shields.io/badge/Backend-Node.js-339933?style=for-the-badge&logo=node.js)
 ## 💻 Tech Stack
 
 ![Backend](https://img.shields.io/badge/Backend-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Language](https://img.shields.io/badge/Language-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)(https://img.shields.io/badge/Language-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Language](https://img.shields.io/badge/Language-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Language](https://img.shields.io/badge/Language-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-![Framework](https://img.shields.io/badge/Framework-NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)(https://img.shields.io/badge/Framework-Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Framework](https://img.shields.io/badge/Framework-NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Framework](https://img.shields.io/badge/Framework-Express-000000?style=for-the-badge&logo=express&logoColor=white)
 
-![Database](https://img.shields.io/badge/Database-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)(https://img.shields.io/badge/Database-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)(https://img.shields.io/badge/Database-Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Database](https://img.shields.io/badge/Database-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Database](https://img.shields.io/badge/Database-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Database](https://img.shields.io/badge/Database-Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 ![Cloud](https://img.shields.io/badge/Cloud-AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
 
